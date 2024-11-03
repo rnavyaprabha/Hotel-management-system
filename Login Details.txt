@@ -1,0 +1,13 @@
+**Database Name: hotelmanagementsystem**
+
+**Developed By Pradeep Kumar and Navyaprabha**
+
+
+**Login Details**
+
+username: pradeep / kumap02@pfw.edu
+password: pradeep
+
+
+Username: navya / rajan02@pfw.edu
+Password : navya
